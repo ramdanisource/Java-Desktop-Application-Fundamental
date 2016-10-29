@@ -38,7 +38,7 @@ tentunya masing-masing Sistem Operasi mempunyai komponen GUI yang berbeda-beda s
 Komponen Java AWT Sendiri cukup berat karena menggunakan resource pada sistem operasi yang digunakan.
 
 Adapun susunan komponen yang digunakan pada Java AWT, seperti berikut:
-<img width="600" src="https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/screenshot/contoh_gist.png" alt="Screenshot">
+<img width="400" src="http://www.javatpoint.com/images/awthierarchy.jpg" alt="Screenshot">
 
 Contoh full code Java AWT :
 
@@ -104,7 +104,7 @@ public class JavaAWTComponentExample {
 ```
 
 ## **Java Swing**
-Contoh full code Java AWT :
+Contoh full code Java Swing :
 
 ```java
 /*
