@@ -109,7 +109,7 @@ Java Swing dibangun diatas Java AWT, Java Swing sendiri merupakan bagian dari Ja
 Java Swing berada pada package ``javax.swing`` dan menyediakan class pada Java Swing API seperti JButton, JTextField, JTextArea, JRadioButton, JCheckbox, JMenu, JColorChooser dan yang lainya.
 
 Adapun susunan komponen yang digunakan pada Java Swing, seperti berikut:
-<img width="400" src="http://www.javatpoint.com/images/swinghierarchy.jpg" alt="Screenshot">
+<img width="600" src="http://www.javatpoint.com/images/swinghierarchy.jpg" alt="Screenshot">
 
 Contoh full code Java Swing :
 
